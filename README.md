@@ -6,7 +6,7 @@ Para esto, se implementaron diferentes modulos:
 
 - PronunciarNumero : Numero (int) -> Pronunciacion (String)
 
-- PronunciarPorPatron : Numero (int), Patron (byte) -> Pronunciacion (String)
+- PronunciarPorPatron : Numero (int), Patron (byte) [XX-XXX-XXX]-> Pronunciacion (String)
 
 - PermutarPatrones : N_DIGITOS (int) -> Permutaciones (List)
 
@@ -15,3 +15,5 @@ Para esto, se implementaron diferentes modulos:
 - OrderPatterns (mergesort) : Patterns (List) -> Patterns (List) 
 
 - GET_BEST_PATTERNS : DNI (int), N_DEPTH (int) -> Levels (List)
+
+
